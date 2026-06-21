@@ -9,10 +9,10 @@ It helps shop owners create invoices, manage products, track inventory, monitor 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Screenshots/01.jpg" width="220"/>
-  <img src="Screenshots/02.jpg" width="220"/>
-  <img src="Screenshots/03.jpg" width="220"/>
-  <img src="Screenshots/04.jpg" width="220"/>
+  <img src="Screenshots/01.jpeg" width="220"/>
+  <img src="Screenshots/02.jpeg" width="220"/>
+  <img src="Screenshots/03.jpeg" width="220"/>
+  <img src="Screenshots/04.jpeg" width="220"/>
 </p>
 
 ---
