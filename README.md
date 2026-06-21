@@ -13,7 +13,7 @@ It helps shop owners create invoices, manage products, track inventory, monitor 
   <img src="Screenshots/02.jpeg" width="180"/>
   <img src="Screenshots/03.jpeg" width="180"/>
   <img src="Screenshots/04.jpeg" width="180"/>
-  <img src="Screenshots/04.jpeg" width="180"/>
+  <img src="Screenshots/05.jpeg" width="180"/>
 </p>
 
 ---
